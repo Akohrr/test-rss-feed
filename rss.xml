@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" version="2.0">
+  <channel>
+    <atom:link href="https://feeds.sounder.fm/12402/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link xmlns="http://www.w3.org/2005/Atom" href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <generator>Sounder.fm Podcasts</generator>
+    <title>Chiristian Short Sermons</title>
+    <description><![CDATA[Short snippets of Christian Sermons]]></description>
+    <link>https://akohrr.sounder.fm</link>
+    <docs>https://akohrr.sounder.fm</docs>
+    <language>en</language>
+    <copyright><![CDATA[All rights reserved.]]></copyright>
+    <lastBuildDate>Sun, 18 Apr 2021 15:39:53 +0000</lastBuildDate>
+    <pubDate>Sun, 18 Apr 2021 05:30:10 +0000</pubDate>
+    <managingEditor>atadoga.akoh@gmail.com  (atadoga.akoh@gmail.com)</managingEditor>
+    <image>
+      <url>https://cdn2.sounder.fm/217469/conversions/IMAG0174-square_big.jpg?v=1618760348</url>
+      <title>Chiristian Short Sermons</title>
+      <link><![CDATA[https://akohrr.sounder.fm]]></link>
+    </image>
+    <itunes:author>Multiple people</itunes:author>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:new-feed-url>https://feeds.sounder.fm/12402/rss.xml</itunes:new-feed-url>
+    <itunes:summary>Short snippets of Christian Sermons</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:email>atadoga.akoh@gmail.com</itunes:email>
+      <itunes:name>Multiple people</itunes:name>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://cdn2.sounder.fm/217469/conversions/IMAG0174-square_big.jpg?v=1618760348"/>
+    <item>
+      <title>Borrowing is not good</title>
+      <author>Multiple people</author>
+      <dc:creator>Multiple people</dc:creator>
+      <enclosure url="https://cdn2.sounder.fm/217408/audio--140867--12402--28554--9b5d39a3-b005-4a97-99b3-a71d2988af05.mp3?v=1618723939" length="64177396" type="audio/mpeg"/>
+      <guid isPermalink="false">c830cbc0-7efd-48b4-87ae-0028d42c9181</guid>
+      <pubDate>Sun, 18 Apr 2021 05:32:17 GMT</pubDate>
+      <link><![CDATA[https://akohrr.sounder.fm/episode/no-borrowing]]></link>
+      <description><![CDATA[<p>First podcast upload</p>]]></description>
+      <content:encoded><![CDATA[<p>First podcast upload</p>]]></content:encoded>
+      <itunes:title>Borrowing is not good</itunes:title>
+      <itunes:author>Multiple people</itunes:author>
+      <itunes:duration>01:06:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>First podcast upload</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
